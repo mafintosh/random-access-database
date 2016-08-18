@@ -1,0 +1,27 @@
+{
+  "name": "random-access-database",
+  "version": "0.0.0",
+  "description": "Store fixed size values in an abstract-random-access compatible storage provider",
+  "main": "index.js",
+  "dependencies": {
+    "passthrough-encoding": "^1.2.0"
+  },
+  "devDependencies": {
+    "random-access-memory": "^2.1.0",
+    "standard": "^7.1.2",
+    "tape": "^4.6.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/random-access-database.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/random-access-database/issues"
+  },
+  "homepage": "https://github.com/mafintosh/random-access-database"
+}
