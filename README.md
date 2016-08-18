@@ -6,6 +6,8 @@ Store fixed size values in an [abstract-random-access](https://github.com/julian
 npm install random-access-database
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/random-access-database.svg?style=flat)](http://travis-ci.org/mafintosh/random-access-database)
+
 ## Usage
 
 ``` js
