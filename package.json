@@ -1,6 +1,6 @@
 {
   "name": "random-access-database",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Store fixed size values in an abstract-random-access compatible storage provider",
   "main": "index.js",
   "dependencies": {
