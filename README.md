@@ -29,7 +29,7 @@ db.put(0, 'hello', function (err) {
 
 #### `var db = rad(storage, options)`
 
-Create a new databae. `storage` should be an [abstract-random-access](https://github.com/juliangruber/abstract-random-access) compatible storage provider. Options include
+Create a new database. `storage` should be an [abstract-random-access](https://github.com/juliangruber/abstract-random-access) compatible storage provider. Options include
 
 ``` js
 {
